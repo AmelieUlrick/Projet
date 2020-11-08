@@ -23,6 +23,7 @@
         <activity android:name=".AjouterCarte"></activity>
         <activity android:name=".AfficheTest"></activity>
         <activity android:name=".ListeImage"></activity>
+        <activity android:name=".PageConnexion"></activity>
     </application>
 
 </manifest>
